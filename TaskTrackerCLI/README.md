@@ -7,3 +7,6 @@ Ce projet est une application de suivi de tâches en ligne de commande.
    - 1 : Ajouter une tâche
    - 2 : Lister les tâches
    - 3 : Quitter
+
+## URL du projet
+[https://github.com/dramanecouli/TasktrackerCLI](https://github.com/dramanecouli/TasktrackerCLI)
